@@ -1,0 +1,107 @@
+[
+  {
+    "day": "周一",
+    "date": "2026-03-09",
+    "event": {
+      "summary": "健身 - 有氧",
+      "description": "有氧训练\n时长：40分钟\n强度：中",
+      "start": {
+        "date_time": "2026-03-09T20:30:00+08:00",
+        "time_zone": "Asia/Shanghai"
+      },
+      "end": {
+        "date_time": "2026-03-09T21:30:00+08:00",
+        "time_zone": "Asia/Shanghai"
+      },
+      "reminders": [
+        {
+          "minutes": 30
+        }
+      ]
+    }
+  },
+  {
+    "day": "周二",
+    "date": "2026-03-10",
+    "event": {
+      "summary": "健身 - 力量",
+      "description": "力量训练\n时长：45分钟\n重点：全身",
+      "start": {
+        "date_time": "2026-03-10T20:30:00+08:00",
+        "time_zone": "Asia/Shanghai"
+      },
+      "end": {
+        "date_time": "2026-03-10T21:30:00+08:00",
+        "time_zone": "Asia/Shanghai"
+      },
+      "reminders": [
+        {
+          "minutes": 30
+        }
+      ]
+    }
+  },
+  {
+    "day": "周四",
+    "date": "2026-03-12",
+    "event": {
+      "summary": "健身 - HIIT",
+      "description": "HIIT训练\n时长：30分钟\n强度：高",
+      "start": {
+        "date_time": "2026-03-12T20:30:00+08:00",
+        "time_zone": "Asia/Shanghai"
+      },
+      "end": {
+        "date_time": "2026-03-12T21:30:00+08:00",
+        "time_zone": "Asia/Shanghai"
+      },
+      "reminders": [
+        {
+          "minutes": 30
+        }
+      ]
+    }
+  },
+  {
+    "day": "周五",
+    "date": "2026-03-13",
+    "event": {
+      "summary": "健身 - 有氧",
+      "description": "有氧训练\n时长：40分钟\n强度：中",
+      "start": {
+        "date_time": "2026-03-13T20:30:00+08:00",
+        "time_zone": "Asia/Shanghai"
+      },
+      "end": {
+        "date_time": "2026-03-13T21:30:00+08:00",
+        "time_zone": "Asia/Shanghai"
+      },
+      "reminders": [
+        {
+          "minutes": 30
+        }
+      ]
+    }
+  },
+  {
+    "day": "周六",
+    "date": "2026-03-14",
+    "event": {
+      "summary": "健身 - 力量",
+      "description": "力量训练\n时长：45分钟\n重点：全身",
+      "start": {
+        "date_time": "2026-03-14T16:00:00+08:00",
+        "time_zone": "Asia/Shanghai"
+      },
+      "end": {
+        "date_time": "2026-03-14T18:00:00+08:00",
+        "time_zone": "Asia/Shanghai"
+      },
+      "reminders": [
+        {
+          "minutes": 30
+        }
+      ]
+    }
+  }
+]

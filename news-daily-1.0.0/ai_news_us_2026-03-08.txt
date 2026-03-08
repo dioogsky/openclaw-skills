@@ -1,0 +1,64 @@
+[美国AI新闻]
+2026-03-08
+
+========================================
+
+[美国AI]
+----------------------------------------
+
+1. OpenAI GPT-5预览版发布
+   新一代大语言模型在多模态理解上有重大突破
+   来源: OpenAI
+
+2. Google Gemini 2.0上线
+   原生多模态能力，视频理解突破
+   来源: Google DeepMind
+
+3. Anthropic Claude 4发布
+   上下文窗口扩展至200万token
+   来源: Anthropic
+
+4. Meta Llama 4开源
+   开源大模型性能逼近闭源模型
+   来源: Meta AI
+
+5. Midjourney V7发布
+   图像生成质量提升，支持更精细的风格控制
+   来源: Midjourney
+
+6. Stability AI Stable Diffusion 4
+   开源图像生成模型新版本
+   来源: Stability AI
+
+7. Microsoft Copilot重大更新
+   Office套件AI集成深度增强
+   来源: Microsoft
+
+========================================
+
+[海外游戏行业]
+----------------------------------------
+
+1. GTA 6发售日期确认
+   R星官宣2025年秋季发售，预售破纪录
+   来源: Rockstar
+
+2. 任天堂Switch 2正式公布
+   新一代主机性能大幅提升，向下兼容
+   来源: Nintendo
+
+3. 《艾尔登法环》DLC销量创新高
+   FromSoftware DLC首日销量破500万
+   来源: Bandai Namco
+
+4. Steam Deck 2开发中
+   Valve确认新一代掌机，性能翻倍
+   来源: Valve
+
+5. 《使命召唤》新作预告
+   T组新作回归经典，战役模式大幅改进
+   来源: Activision
+
+========================================
+
+[提示] 以上新闻由AI助手整理推送

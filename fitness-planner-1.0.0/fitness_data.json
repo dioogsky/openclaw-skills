@@ -1,0 +1,65 @@
+{
+  "plan": {
+    "name": "减脂计划",
+    "description": "以有氧运动为主，配合适量力量训练",
+    "weekly_schedule": [
+      {
+        "day": "周一",
+        "type": "休息",
+        "duration": 0
+      },
+      {
+        "day": "周二",
+        "type": "力量",
+        "duration": 45,
+        "focus": "全身"
+      },
+      {
+        "day": "周三",
+        "type": "有氧",
+        "duration": 40,
+        "intensity": "中"
+      },
+      {
+        "day": "周四",
+        "type": "休息",
+        "duration": 0
+      },
+      {
+        "day": "周五",
+        "type": "力量",
+        "duration": 45,
+        "focus": "全身"
+      },
+      {
+        "day": "周六",
+        "type": "有氧",
+        "duration": 40,
+        "intensity": "中"
+      },
+      {
+        "day": "周日",
+        "type": "HIIT",
+        "duration": 30,
+        "intensity": "高"
+      }
+    ],
+    "diet_tips": [
+      "控制总热量摄入，制造热量缺口",
+      "增加蛋白质摄入，保护肌肉",
+      "减少精制碳水，选择粗粮",
+      "多喝水，每天至少2L"
+    ],
+    "goal": "fat-loss",
+    "level": "intermediate",
+    "created_at": "2026-03-08T17:33:18.587801"
+  },
+  "logs": [],
+  "stats": {
+    "total_workouts": 0,
+    "total_duration": 0,
+    "current_streak": 0,
+    "max_streak": 0
+  },
+  "created_at": "2026-03-08T17:00:43.798733"
+}

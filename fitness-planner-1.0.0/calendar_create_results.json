@@ -1,0 +1,37 @@
+[
+  {
+    "day": "周二",
+    "date": "2026-03-10",
+    "type": "力量",
+    "success": true,
+    "message": "创建成功"
+  },
+  {
+    "day": "周三",
+    "date": "2026-03-11",
+    "type": "有氧",
+    "success": true,
+    "message": "创建成功"
+  },
+  {
+    "day": "周五",
+    "date": "2026-03-13",
+    "type": "力量",
+    "success": true,
+    "message": "创建成功"
+  },
+  {
+    "day": "周六",
+    "date": "2026-03-14",
+    "type": "有氧",
+    "success": true,
+    "message": "创建成功"
+  },
+  {
+    "day": "周日",
+    "date": "2026-03-15",
+    "type": "HIIT",
+    "success": true,
+    "message": "创建成功"
+  }
+]

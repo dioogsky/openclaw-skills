@@ -1,0 +1,16 @@
+{
+  "name": "fitness-planner",
+  "version": "1.0.0",
+  "description": "个人健身计划制定和跟踪工具",
+  "author": "小智",
+  "license": "MIT",
+  "main": "fitness_planner.py",
+  "entry_points": {
+    "cli": "python fitness_planner.py"
+  },
+  "dependencies": [],
+  "platforms": ["windows", "linux", "macos"],
+  "tags": ["fitness", "workout", "health", "planning", "tracking"],
+  "created_at": "2026-03-08",
+  "updated_at": "2026-03-08"
+}

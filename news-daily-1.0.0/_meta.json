@@ -1,0 +1,16 @@
+{
+  "name": "news-daily",
+  "version": "1.0.0",
+  "description": "每日AI新闻自动收集和推送工具",
+  "author": "小智",
+  "license": "MIT",
+  "main": "news_daily.py",
+  "entry_points": {
+    "cli": "python news_daily.py"
+  },
+  "dependencies": [],
+  "platforms": ["windows", "linux", "macos"],
+  "tags": ["news", "ai", "daily", "push", "automation"],
+  "created_at": "2026-03-08",
+  "updated_at": "2026-03-08"
+}

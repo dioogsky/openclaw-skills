@@ -1,0 +1,338 @@
+{
+  "ios_rankings": {
+    "free": [
+      {
+        "rank": 1,
+        "name": "豆包 - 深度思考升级",
+        "category": "生產力",
+        "developer": "Beijing Chuntian Zhiyun Technology Co., Ltd.",
+        "app_id": "6459478672",
+        "price": "取得",
+        "summary": "豆包是您的多功能 AI 助理，為您的生活、學習、工作提供幫助。豆包可以為您搜尋資訊、解讀時事新聞、答疑解惑、分析總結、提供靈感和輔助創作。豆包的知識淵博，專業可靠，同時也善解人意，需要的時候能夠深入淺..."
+      },
+      {
+        "rank": 2,
+        "name": "NetShort - 熱門短劇盡情觀賞",
+        "category": "娛樂",
+        "developer": "NETSTORY PTE. LTD.",
+        "app_id": "6504849169",
+        "price": "取得",
+        "summary": "厭倦了冗長枯燥劇集？想要隨時隨地沈浸體驗高燃劇情，那就試試NetShort！\n\n超多獨家原創豎屏短劇，霸總甜寵、穿越修仙、逆襲爽文…… 你想看的題材全都有！每日上新不劇荒，自定義專屬劇場 + 高清畫質..."
+      },
+      {
+        "rank": 3,
+        "name": "積金易 (eMPF)",
+        "category": "理財",
+        "developer": "eMPF Platform Company Limited",
+        "app_id": "6480176219",
+        "price": "取得",
+        "summary": "處理強積金  一站式更Easy\r\n\r\neMPF 積金易流動應用程式是積金易平台有限公司（強制性公積金計劃管理局（積金局）的全資附屬公司）設立的一個電子平台，讓計劃成員及僱主隨時隨地管理強積金。\r\n\r\n..."
+      },
+      {
+        "rank": 4,
+        "name": "Grok - AI 助理",
+        "category": "生產力",
+        "developer": "xAI",
+        "app_id": "6670324846",
+        "price": "取得",
+        "summary": "Grok 是一個由 xAI 開發的 AI 驅動助手，旨在最大限度地真實、有用和好奇。獲取任何問題的答案，生成引人注目的圖像和影片，並讓 Grok 為您搜索網路和 X，以更深入地了解世界。有了 Grok..."
+      },
+      {
+        "rank": 5,
+        "name": "瑞幸咖啡",
+        "category": "美食佳飲",
+        "developer": "Beijing Luckin Coffee Co., Ltd",
+        "app_id": "1296749505",
+        "price": "取得",
+        "summary": "【品牌理念】\n瑞幸咖啡秉承以“創造幸運時刻，激發美好生活熱望”為使命，以“創造世界級咖啡品牌，令瑞幸成為人們日常生活的一部份”為願景，圍繞“求真務實、品質至上、持續創新、非我莫屬、互信共贏”的核心價值..."
+      },
+      {
+        "rank": 6,
+        "name": "Snapchat：與好友聊天",
+        "category": "相片與影片",
+        "developer": "Snap, Inc.",
+        "app_id": "447188370",
+        "price": "取得",
+        "summary": "Snapchat 是與親友分享生活時刻快速有趣的方式 \n\n拍攝 Snap\n• Snapchat 可立即開啟相機功能 — 只要點按鏡頭便可拍攝照片，或是按住鏡頭便可錄影。 \n• 使用特效鏡頭、濾鏡、Bi..."
+      },
+      {
+        "rank": 7,
+        "name": "红果短剧 - 海量热门短剧随心看",
+        "category": "娛樂",
+        "developer": "Beijing Bimo Liuxiang Technology Co., Ltd.",
+        "app_id": "6451407032",
+        "price": "取得",
+        "summary": "【抖音旗下】\n红果短剧是抖音集团推出的免费看剧产品，致力于为用户提供海量免费优质短剧。免费好剧，尽在红果！\n\n【产品形态 】\n产品定位：以提供海量免费优质短剧资源为主，满足不同用户的多样化娱乐需求\n-..."
+      },
+      {
+        "rank": 8,
+        "name": "Tabelog－日本餐廳探索、訂位與評價全方位平台",
+        "category": "美食佳飲",
+        "developer": "Kakaku.com, Inc.",
+        "app_id": "6752922875",
+        "price": "取得",
+        "summary": "在出發前或旅途中，輕鬆搜尋、查看評價並預訂日本最受歡迎的在地餐廳。\n\nTabelog 是日本最具代表性的餐廳搜尋、美食評論與訂位 App，深受日本在地人與國際旅客信賴。全日本超過 80 萬家餐廳，累積..."
+      },
+      {
+        "rank": 9,
+        "name": "抖音 Douyin",
+        "category": "娛樂",
+        "developer": "Beijing Douyin Technology Co., Ltd.",
+        "app_id": "1142110895",
+        "price": "取得",
+        "summary": "抖音，記錄美好生活。\n抖音是一款廣受歡迎的短視頻社交平台。我們為用戶提供豐富海量的短視頻內容，滿足不同用戶的娛樂需求；我們還提供便捷視頻創作工具，用戶能輕鬆拍攝各類視頻，利用豐富多樣的特效、濾鏡、音樂..."
+      },
+      {
+        "rank": 10,
+        "name": "拼多多 - 多多买菜，百亿补贴",
+        "category": "購物",
+        "developer": "上海寻梦信息技术有限公司",
+        "app_id": "1044283059",
+        "price": "取得",
+        "summary": "拼多多——多实惠，多乐趣\n\n拼多多，社交新电商，更懂消费者的手机购物APP。8亿用户在此拼团，享受更高性价比的生活。和你的家人、朋友、邻居一起拼，品质商品更低价，包邮送到家，分享实惠，分享乐趣。\n\n-..."
+      }
+    ],
+    "paid": [
+      {
+        "rank": 1,
+        "name": "Shadowrocket",
+        "category": "工具程式",
+        "developer": "Shadow Launch Technology Limited",
+        "app_id": "932747118",
+        "price": "HK$ 22.00",
+        "summary": "基於規則的 iPhone / iPad 代理實用程序客戶端。\n\n - 從設備上的任何應用程序捕獲所有 HTTP / HTTPS / TCP 流量，並重定向到代理服務器。\n - 記錄並顯示 iOS 設備..."
+      },
+      {
+        "rank": 2,
+        "name": "Minecraft",
+        "category": "遊戲",
+        "developer": "Mojang",
+        "app_id": "479516143",
+        "price": "HK$ 56.00",
+        "summary": "您可探索隨機產生的世界，也能搭造有意思的建物，從最簡單的家屋到最雄偉的城堡都能辦到。玩創造模式時會有無限資源可供運用，在生存模式中整個世界任您挖掘，並可打造武器和盔甲，擊退危險的生物。\n\n外觀、材質，..."
+      },
+      {
+        "rank": 3,
+        "name": "Religion inc.上帝模擬器",
+        "category": "遊戲",
+        "developer": "GameFirst LLC",
+        "app_id": "1484622401",
+        "price": "HK$ 2.00",
+        "summary": "你正在閱讀這段文字。\n但為何？\n你是在尋找一款遊戲，\n還是遊戲已找到你？\n《宗教公司》不僅僅是一款策略遊戲。\n它是創造新現實的模擬。\n你會塑造信仰，\n還是信仰會塑造你？\n人類一直在黑暗中尋找光明。\n一..."
+      },
+      {
+        "rank": 4,
+        "name": "Berry底片相機 - 韓系奶霜感攝影",
+        "category": "相片與影片",
+        "developer": "Seungyun Kim",
+        "app_id": "6741474933",
+        "price": "HK$ 18.00",
+        "summary": "大家好，我是來自韓國的濾鏡創作者 Berry。\n你可能曾透過 Instagram 帳號 @berryveryloveyou 認識我。\n我曾在社群平台上分享了許多濾鏡，但它們如今已經無法使用。\n為了守護..."
+      },
+      {
+        "rank": 5,
+        "name": "Balatro",
+        "category": "遊戲",
+        "developer": "Playstack Ltd",
+        "app_id": "6502453075",
+        "price": "HK$ 88.00",
+        "summary": "歡迎遊玩Balatro官方遊戲！\n\nBalatro是一款混合接龍與撲克等紙牌遊戲的神奇混合體，讓您以前所未見的方式扭曲遊戲規則，令人愛不釋手、滿意無比！\n你的目標：打造強力的撲克手牌，擊敗Boss盲注..."
+      },
+      {
+        "rank": 6,
+        "name": "Stardew Valley",
+        "category": "遊戲",
+        "developer": "ConcernedApe",
+        "app_id": "1406710800",
+        "price": "HK$ 38.00",
+        "summary": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With..."
+      },
+      {
+        "rank": 7,
+        "name": "Plague Inc. (瘟疫公司)",
+        "category": "遊戲",
+        "developer": "Ndemic Creations",
+        "app_id": "525818839",
+        "price": "HK$ 8.00",
+        "summary": "《瘟疫公司》是一個非常真實的策略模擬類游戲。 \n您的病原體剛剛感染了“零號病人”。現在您必須適應這個世界，不停改進病原體的傳染力和抵抗力，以便應對人類的反擊措施，最終進化成一個全球性的恐怖瘟疫。\n這是..."
+      },
+      {
+        "rank": 8,
+        "name": "飛空艇探險物語",
+        "category": "遊戲",
+        "developer": "Kairosoft Co.,Ltd",
+        "app_id": "6752695239",
+        "price": "HK$ 58.00",
+        "summary": "船是用來橫渡海洋的嗎？\r\n不，是用來翱翔天空的。\r\n\r\n這裡是座小小的天空之島。\r\n就在今天，新手船長搭上閃閃發亮的飛船，啟程踏上天空世界的冒險之旅。\r\n率領著可靠的船員，出發前往未知的空域！\r\n\r\n..."
+      },
+      {
+        "rank": 9,
+        "name": "櫻花最前線 - 2026年預測",
+        "category": "旅遊",
+        "developer": "日本気象株式会社",
+        "app_id": "6752767565",
+        "price": "HK$ 48.00",
+        "summary": "櫻花最前線僅可在2026年使用。\n\n日本氣象廳（JMC）公佈了日本各地約 1000 個著名櫻花（染井吉野櫻樹）觀賞點的預計開花日期和最佳觀賞日期，從北海道到鹿兒島，以及河津町(※)著名的河津櫻觀賞點。..."
+      },
+      {
+        "rank": 10,
+        "name": "Geometry Dash",
+        "category": "遊戲",
+        "developer": "RobTop Games AB",
+        "app_id": "625334537",
+        "price": "HK$ 22.00",
+        "summary": "Jump and fly your way through danger in this rhythm-based action platformer! \n\n\"Frustratingly wonder..."
+      }
+    ],
+    "grossing": [
+      {
+        "rank": 1,
+        "name": "YouTube",
+        "category": "相片與影片",
+        "developer": "Google",
+        "app_id": "544007664",
+        "price": "取得",
+        "summary": "在 iPhone 和 iPad 上下載 YouTube 官方版應用程式，掌握全球影音脈動。舉凡發燒音樂影片、熱門遊戲、時尚、美妝、新聞、成長學習等各種內容，包羅萬象，應有盡有。您可以訂閱喜愛的頻道、自..."
+      },
+      {
+        "rank": 2,
+        "name": "寒霜啟示錄",
+        "category": "遊戲",
+        "developer": "Century Games Pte. Ltd.",
+        "app_id": "6443575749",
+        "price": "取得",
+        "summary": "世界首創冰雪手遊！3億人都在玩！ \r\n\r\n當暴風雪覆蓋了世界，全新的故事等待你來重啟！\r\n身為蓄勢待發的倖存者，召集你的夥伴，帶上免費的 SSR 英雄「茉莉」，一起踏上充滿趣味的冒險之旅，點起希望的火..."
+      },
+      {
+        "rank": 3,
+        "name": "抖音 Douyin",
+        "category": "娛樂",
+        "developer": "Beijing Douyin Technology Co., Ltd.",
+        "app_id": "1142110895",
+        "price": "取得",
+        "summary": "抖音，記錄美好生活。\n抖音是一款廣受歡迎的短視頻社交平台。我們為用戶提供豐富海量的短視頻內容，滿足不同用戶的娛樂需求；我們還提供便捷視頻創作工具，用戶能輕鬆拍攝各類視頻，利用豐富多樣的特效、濾鏡、音樂..."
+      },
+      {
+        "rank": 4,
+        "name": "Kingshot",
+        "category": "遊戲",
+        "developer": "Century Games Pte. Ltd.",
+        "app_id": "6739554056",
+        "price": "取得",
+        "summary": "《Kingshot》是一款結合策略和放置的中世紀生存遊戲。玩法獨特、細節豐富，等你來探索！\n\n一場突如其來的叛亂，改變了整個王朝的命運，隨之而起的戰爭令無數人失去了賴以生存的家園。面對社會崩壞、叛軍入..."
+      },
+      {
+        "rank": 5,
+        "name": "最後的戰爭 - Last War",
+        "category": "遊戲",
+        "developer": "FUNFLY PTE. LTD.",
+        "app_id": "6448786147",
+        "price": "取得",
+        "summary": "全球出現了一場驚人的喪屍災難，把好多人都變成喪屍了！身為倖存者的你，最重要的就是要保持人性，然後想辦法活下去！\n\n- 超刺激的求生大挑戰\n現在就開始超刺激的求生大挑戰吧！要閃避喪屍，也要學會怎麼跟它們..."
+      },
+      {
+        "rank": 6,
+        "name": "三國：謀定天下",
+        "category": "遊戲",
+        "developer": "BILIBILI HK LIMITED",
+        "app_id": "6752602491",
+        "price": "取得",
+        "summary": "《三國：謀定天下》是一款為新世代策略玩家打造的三國戰爭遊戲。\n 你將化身亂世君主，尋訪三國名將，組建各種戰場隊伍，親身參與真正的大型國戰！\n\n在這裡，你不只是打仗——\n你要種田發育、築城囤糧、訓練軍隊..."
+      },
+      {
+        "rank": 7,
+        "name": "Coin Master",
+        "category": "遊戲",
+        "developer": "Moon Active",
+        "app_id": "406889139",
+        "price": "取得",
+        "summary": "與你的Facebook好友和全球數百萬名玩家一起旋轉轉盤贏得獎品，在通往巔峰的旅途中，一座接一座地建造你的村落！\n\n你有能力成為下一位金幣大師嗎\n\n準備好與好友組隊展開刺激的探險，或與其他玩家組隊同樂..."
+      },
+      {
+        "rank": 8,
+        "name": "糖果傳奇",
+        "category": "遊戲",
+        "developer": "King",
+        "app_id": "553834731",
+        "price": "取得",
+        "summary": "馬上來玩《糖果傳奇》吧！這是一款鼎鼎有名的益智遊戲，全世界的百萬玩家莫不深深愛上這款遊戲。\n\n全世界玩家的闖關次數超過數十兆次，這款遊戲是行動裝置史上最受歡迎的三消解謎遊戲！\n\n在這款美味的益智冒險中..."
+      },
+      {
+        "rank": 9,
+        "name": "NetShort - 熱門短劇盡情觀賞",
+        "category": "娛樂",
+        "developer": "NETSTORY PTE. LTD.",
+        "app_id": "6504849169",
+        "price": "取得",
+        "summary": "厭倦了冗長枯燥劇集？想要隨時隨地沈浸體驗高燃劇情，那就試試NetShort！\n\n超多獨家原創豎屏短劇，霸總甜寵、穿越修仙、逆襲爽文…… 你想看的題材全都有！每日上新不劇荒，自定義專屬劇場 + 高清畫質..."
+      },
+      {
+        "rank": 10,
+        "name": "RO仙境傳説：世界之旅",
+        "category": "遊戲",
+        "developer": "Gravity Game Vision Limited",
+        "app_id": "6749527002",
+        "price": "取得",
+        "summary": "與其偶爾想念，不如世界相遇！\n次世代旗艦級RO新作，1月15日全平台正式上市！\n這次的地圖大到跑斷腿也甘願！每一幀都是精緻風景，每一次出發都有奇遇，在這個畫質爆表的大世界裡，你能騎走BOSS當坐騎、蹲..."
+      }
+    ],
+    "collected_at": "2026-03-08T17:32:06.768487"
+  },
+  "game_news": {
+    "china": [
+      {
+        "title": "维密超模母女齐上阵 最新写真火辣同框",
+        "source": "游民星空",
+        "url": "https://www.gamersky.com/news/202603/2102116.shtml",
+        "summary": "点击查看详情",
+        "fetched_at": "2026-03-08T17:32:07.326110"
+      },
+      {
+        "title": "新一代Xbox代号Helix刚曝光！官方技术专场下周就来",
+        "source": "游民星空",
+        "url": "https://www.gamersky.com/news/202603/2101512.shtml",
+        "summary": "点击查看详情",
+        "fetched_at": "2026-03-08T17:32:07.326145"
+      },
+      {
+        "title": "iPhone17国内销量破2300万！遥遥领先友商同期旗舰",
+        "source": "游民星空",
+        "url": "https://www.gamersky.com/news/202603/2102101.shtml",
+        "summary": "点击查看详情",
+        "fetched_at": "2026-03-08T17:32:07.326163"
+      }
+    ],
+    "usa": [],
+    "all": [
+      {
+        "title": "维密超模母女齐上阵 最新写真火辣同框",
+        "source": "游民星空",
+        "url": "https://www.gamersky.com/news/202603/2102116.shtml",
+        "summary": "点击查看详情",
+        "fetched_at": "2026-03-08T17:32:07.326110"
+      },
+      {
+        "title": "新一代Xbox代号Helix刚曝光！官方技术专场下周就来",
+        "source": "游民星空",
+        "url": "https://www.gamersky.com/news/202603/2101512.shtml",
+        "summary": "点击查看详情",
+        "fetched_at": "2026-03-08T17:32:07.326145"
+      },
+      {
+        "title": "iPhone17国内销量破2300万！遥遥领先友商同期旗舰",
+        "source": "游民星空",
+        "url": "https://www.gamersky.com/news/202603/2102101.shtml",
+        "summary": "点击查看详情",
+        "fetched_at": "2026-03-08T17:32:07.326163"
+      }
+    ],
+    "collected_at": "2026-03-08T17:32:09.027561"
+  },
+  "ai_news": {
+    "china": [],
+    "usa": [],
+    "all": [],
+    "collected_at": "2026-03-08T17:32:11.091927"
+  },
+  "collected_at": "2026-03-08T17:32:11.092476"
+}
