@@ -1,0 +1,37 @@
+{
+  "transactions": [
+    {
+      "id": "2cbc8045",
+      "amount": 35.0,
+      "category": "food",
+      "note": "午餐",
+      "type": "expense",
+      "date": "2026-03-08",
+      "time": "20:07:59",
+      "created_at": "2026-03-08T20:07:59.357415"
+    },
+    {
+      "id": "b0648a99",
+      "amount": 35.0,
+      "category": "food",
+      "note": "午餐",
+      "type": "expense",
+      "date": "2026-03-08",
+      "time": "20:08:17",
+      "created_at": "2026-03-08T20:08:17.887567"
+    },
+    {
+      "id": "c19fa3c6",
+      "amount": 50.0,
+      "category": "food",
+      "note": "咖啡",
+      "type": "expense",
+      "date": "2026-03-08",
+      "time": "20:08:41",
+      "created_at": "2026-03-08T20:08:41.346493"
+    }
+  ],
+  "budgets": {},
+  "investments": [],
+  "created_at": "2026-03-08T20:07:59.356252"
+}
