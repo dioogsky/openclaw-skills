@@ -1,111 +1,184 @@
-# OpenClaw Skills Collection
+# 小豪 Mini 的 OpenClaw 技能集合 🦞
 
-这是一个OpenClaw Agent Skills集合，包含多个实用的自动化工具。
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-Compatible-orange.svg)](https://github.com/openclaw/openclaw)
 
-## 📦 包含的技能
+## 简介
 
-### 1. news-daily (每日AI新闻)
-- **功能**: 自动生成每日AI新闻简报
-- **特点**: 
-  - 支持中国AI和美国AI分开推送
-  - 定时任务（早8点、晚8点）
-  - 包含游戏行业动态
-- **安装**: `npx skills add [your-github]/openclaw-skills@news-daily`
+这是 **小豪 Mini**（Eddy 的 AI 助手）的 OpenClaw 技能共享仓库。收集和整理实用的 OpenClaw 技能，方便自己和他人使用。
 
-### 2. travel-planner (旅行规划)
-- **功能**: 年度旅行计划管理
-- **特点**:
-  - 预算管理（15万年度预算）
-  - 低价航班监控
-  - 每日/每周自动报告
-- **安装**: `npx skills add [your-github]/openclaw-skills@travel-planner`
+> 🦞 **什么是 OpenClaw？**  
+> OpenClaw 是一个开源的 AI 助手平台，让你拥有完全可控的个人 AI。支持多种消息渠道（飞书、微信、Telegram 等）和丰富的技能扩展。
 
-### 3. fitness-planner (健身计划)
-- **功能**: 个人健身计划制定和跟踪
-- **特点**:
-  - 减脂/增肌/塑形/维持 四种模式
-  - 训练提醒（早9点、晚8点）
-  - 进度记录和统计
-- **安装**: `npx skills add [your-github]/openclaw-skills@fitness-planner`
+---
 
-### 4. find-skills (技能搜索)
-- **功能**: 搜索和安装ClawHub技能
-- **特点**:
-  - 关键词搜索
-  - 自动安装
-  - 安全风险评估
-- **安装**: `npx skills add [your-github]/openclaw-skills@find-skills`
+## 📦 已安装技能
 
-### 5. agent-browser (浏览器控制)
-- **功能**: 浏览器自动化操作
-- **特点**:
-  - 网页浏览
-  - 截图/PDF生成
-  - 自动化点击、输入
-- **安装**: `npx skills add [your-github]/openclaw-skills@agent-browser`
+| 技能名称 | 描述 | 来源 | 状态 |
+|---------|------|------|------|
+| **news-aggregator-skill** | 综合新闻聚合器，从 8 大平台获取实时热点 | [tonyliu9189/news-aggregator-skill-2](https://github.com/openclaw/skills/tree/main/skills/tonyliu9189/news-aggregator-skill-2) | ✅ 已安装 |
+
+### news-aggregator-skill 详情
+
+**支持的新闻源：**
+- 🟠 **Hacker News** - 全球技术社区热点
+- 🐙 **GitHub Trending** - 热门开源项目
+- 🚀 **Product Hunt** - 新产品发布
+- 📰 **36Kr** - 中文科技新闻
+- 💬 **Tencent News** - 腾讯新闻
+- 📈 **WallStreetCN** - 华尔街见闻（财经）
+- 💻 **V2EX** - 技术社区讨论
+- 🔥 **Weibo** - 微博热搜
+
+**使用方法：**
+```
+获取 Hacker News 热门
+搜索 AI 相关新闻
+获取 GitHub trending
+news-aggregator-skill 如意如意  # 显示菜单
+```
+
+---
 
 ## 🚀 快速开始
 
-### 安装所有技能
+### 安装技能
+
+#### 方法 1：通过 ClawHub 安装（推荐）
 ```bash
-# 使用 skills CLI
-npx skills add [your-github]/openclaw-skills@news-daily
-npx skills add [your-github]/openclaw-skills@travel-planner
-npx skills add [your-github]/openclaw-skills@fitness-planner
-npx skills add [your-github]/openclaw-skills@find-skills
-npx skills add [your-github]/openclaw-skills@agent-browser
+clawhub install <skill-name>
 ```
 
-### 手动安装
-1. 克隆仓库
+#### 方法 2：手动安装
 ```bash
-git clone https://github.com/[your-github]/openclaw-skills.git
+# 1. 创建技能目录
+mkdir -p ~/.openclaw/workspace/skills/<skill-name>
+
+# 2. 下载 SKILL.md
+curl -o ~/.openclaw/workspace/skills/<skill-name>/SKILL.md \
+  https://raw.githubusercontent.com/xxx/xxx/main/SKILL.md
 ```
 
-2. 复制技能到OpenClaw目录
+#### 方法 3：Git 克隆
 ```bash
-cp -r openclaw-skills/news-daily-1.0.0 ~/.openclaw/workspace/skills/
-cp -r openclaw-skills/travel-planner-1.0.0 ~/.openclaw/workspace/skills/
-# ... 其他技能
+cd ~/.openclaw/workspace/skills
+git clone https://github.com/username/skill-repo.git
 ```
 
-## 📖 使用说明
+### 使用技能
 
-每个技能文件夹内都有详细的SKILL.md文档，包含：
-- 功能说明
-- 使用方法
-- 配置参数
-- 示例命令
+安装后，直接在对话中使用：
+```
+@小豪 Mini 获取今日 GitHub 热门
+```
 
-## 🔧 系统要求
+---
 
-- OpenClaw >= 2026.3.0
-- Python >= 3.10
-- Windows / macOS / Linux
+## 🛠️ 技能开发
 
-## 📝 配置说明
+### 创建自己的技能
 
-### HEARTBEAT.md 配置示例
+1. **创建目录结构**
+```
+my-skill/
+├── SKILL.md      # 技能说明文档（必需）
+├── _meta.json    # 元数据（可选）
+├── scripts/      # 脚本文件（可选）
+└── README.md     # 额外说明（可选）
+```
+
+2. **编写 SKILL.md**
 ```markdown
-## 每日AI新闻推送
-python C:/Users/MyPC/.openclaw/workspace/skills/news-daily-1.0.0/heartbeat_check.py
+---
+name: my-skill
+description: "技能描述"
+---
 
-## 旅行规划监控
-python C:/Users/MyPC/.openclaw/workspace/skills/travel-planner-1.0.0/heartbeat_check.py
+# 技能名称
 
-## 健身计划提醒
-python C:/Users/MyPC/.openclaw/workspace/skills/fitness-planner-1.0.0/heartbeat_check.py
+## 使用方法
+
+告诉 AI "执行某某操作"
+
+## 示例
+
+- "帮我做某事"
+- "查询某信息"
 ```
 
-## 🤝 贡献
+3. **发布到 ClawHub**
+```bash
+clawhub publish ./my-skill --slug my-skill --name "我的技能" --version 1.0.0
+```
 
-欢迎提交Issue和PR！
+---
 
-## 📄 许可证
+## 📚 推荐技能
 
-MIT License
+### 新闻资讯
+- `news-aggregator-skill` - 综合新闻聚合
+- `blogwatcher` - RSS 订阅监控
+- `reddit-trends` - Reddit 热门追踪
 
-## 🙏 致谢
+### 生产力工具
+- `tavily-search` - 增强搜索
+- `summarize` - 文本摘要
+- `remind-me` - 提醒事项
 
-- OpenClaw Team
-- ClawHub Community
+### 开发工具
+- `github` - GitHub 集成
+- `agent-browser` - 浏览器自动化
+- `task-decomposer` - 任务拆解
+
+---
+
+## 🔒 安全提示
+
+> ⚠️ **重要**：安装第三方技能前，请务必：
+> 1. 阅读 SKILL.md 内容
+> 2. 检查脚本代码
+> 3. 了解所需权限
+> 4. 仅从可信来源安装
+
+### 安全技能推荐
+- `skill-vetter` - 技能安全检查
+- `exec-guard` - 执行保护
+
+---
+
+## 👥 关于我们
+
+- **小豪 Mini** 🧠 - Eddy 的 AI 助手
+- **Eddy** 👨‍💻 - 人类伙伴、仓库维护者
+- **Bella** 👩 - 新闻订阅伙伴
+
+---
+
+## 🤝 贡献指南
+
+欢迎提交 PR 或 Issue 分享你的技能！
+
+### 提交方式
+1. Fork 本仓库
+2. 在 `skills/` 目录下添加你的技能
+3. 更新 README 中的技能列表
+4. 提交 Pull Request
+
+---
+
+## 📄 License
+
+MIT License - 详见 [LICENSE](LICENSE) 文件
+
+---
+
+## 🔗 相关链接
+
+- [OpenClaw 官方仓库](https://github.com/openclaw/openclaw)
+- [ClawHub 技能市场](https://clawhub.com)
+- [OpenClaw 文档](https://docs.openclaw.ai)
+- [本仓库地址](https://github.com/dioogsky/openclaw-skills)
+
+---
+
+> 💡 **提示**：本仓库持续更新中，建议 Star ⭐ 收藏以便获取最新技能！
